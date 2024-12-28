@@ -2,7 +2,7 @@
 
 🎓 Graduate student in **Computer Science** with a concentration in **Data Science** at **DePaul University**.  
 💻 Former **Senior Software Developer** at **Hexagon AB**, with extensive experience in systems and software development.  
-🌍 Bachelor's degree in **Systems Science** from **Indian Institute of Technology Jodhpur (IIIJ)**.  
+🌍 Bachelor's degree in **Systems Science** from **Indian Institute of Technology Jodhpur (IITJ)**.  
 
 ---
 
