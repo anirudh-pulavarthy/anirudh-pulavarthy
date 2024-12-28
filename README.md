@@ -16,10 +16,11 @@
 - Java
 
 ### **Tools & Frameworks**
-- Git, GitHub, GitHub Pages
+- Git, GitHub, Azure DevOps, TFS
 - Macroquad (for building interactive games in Rust)
 - MeshLab (for computational topology visualizations)
 - Conda (for environment management)
+- Shell Scripting
 - Visualization Tools: matplotlib, seaborn, ggplot2
 
 ### **Specializations**
@@ -59,9 +60,9 @@
 
 ## 📫 Let's Connect!
 - 🌐 [Portfolio Website](#) *(coming soon)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/anirudh-pulavarthy/) *(replace)*
-- 📧 Email: apulavar@depaul.edu *(replace)*
-- 🧑‍💻 GitHub: [@anirudh-pulavarthy](https://github.com/anirudh-pulavarthy) *(replace)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/anirudh-pulavarthy/) *(https://www.linkedin.com/in/anirudh-pulavarthy/)*
+- 📧 Email: apulavar@depaul.edu *(apulavar@depaul.edu)*
+- 🧑‍💻 GitHub: [@anirudh-pulavarthy](https://github.com/anirudh-pulavarthy) *(https://github.com/anirudh-pulavarthy)*
 
 ---
 
