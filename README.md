@@ -10,9 +10,10 @@
 
 ### **Programming Languages**
 - Python
-- R
-- Rust
 - C
+- C++
+- Rust
+- R
 - Java
 
 ### **Tools & Frameworks**
