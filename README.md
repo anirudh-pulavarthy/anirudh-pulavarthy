@@ -53,9 +53,9 @@
 
 ## ✨ Current Goals
 
+- 🌟 Contributing to open source projects that make a meaningful impact.
+- 🚀 Working upon projects involving **Machine Learning** and **Data Visualization**.
 - 📖 Learning **React** to enhance front-end web development skills.
-- 🌟 Building applications that make a meaningful impact.
-- 🚀 Exploring **Data Visualization** to create impactful and meaningful visuals.
 
 ---
 
