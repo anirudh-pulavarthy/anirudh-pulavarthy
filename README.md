@@ -10,13 +10,16 @@
 
 ### **Programming Languages**
 - Python
-- C
 - C++
+- Java
 - Rust
 - R
-- Java
+- SQL
+- 
+
 
 ### **Tools & Frameworks**
+- Visual Studio, VS Code, Eclipse
 - Git, GitHub, Azure DevOps, TFS
 - Macroquad (for building interactive games in Rust)
 - MeshLab (for computational topology visualizations)
@@ -48,14 +51,6 @@
 
 ### **🌱 Air Quality Analysis**
 - Explored relationships between wind, solar radiation, and other variables using New York air quality data.
-
----
-
-## ✨ Current Goals
-
-- 🌟 Contributing to open source projects that make a meaningful impact.
-- 🚀 Working upon projects involving **Machine Learning** and **Data Visualization**.
-- 📖 Learning **React** to enhance front-end web development skills.
 
 ---
 
