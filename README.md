@@ -15,8 +15,6 @@
 - Rust
 - R
 - SQL
-<!-- -  -->
-
 
 ### **Tools & Frameworks**
 - Visual Studio, VS Code, Eclipse
